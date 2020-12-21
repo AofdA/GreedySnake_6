@@ -1,4 +1,4 @@
-# GreedySnake_6_TheUnderWorldVersion
+# GreedySnake_6
 GreedySnake_6_TheUnderWorldVersion Bugs!!!!!!
 Use IDEA
 "Main" is start.
